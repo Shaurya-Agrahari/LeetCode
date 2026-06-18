@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0412-fizz-buzz) |
 ## Binary Search
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0412-fizz-buzz) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
