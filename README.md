@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0058-length-of-last-word) |
+| [0316-remove-duplicate-letters](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
@@ -49,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0316-remove-duplicate-letters) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
