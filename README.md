@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0412-fizz-buzz) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
