@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0231-power-of-two) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0258-add-digits) |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Shaurya-Agrahari/LeetCode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
